@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "^[a-zA-Z0-9_%+-]+@[a-zA-Z].[a-zA-Z]+$"
+- text: "^[a-zA-Z0-9_%+-.]+@[a-zA-Z]+\\\\.[a-zA-Z]+$"
+- text: "[a-Z0-9_%+-]+@[a-Z0-9].[a-Z]+"
+- text: "^[a-zA-Z0-9_%+-]+@[a-zA-Z0-9]+.[a-zA-Z]"
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16169#comment
+status: Solved
+record: -1
+local_check: false

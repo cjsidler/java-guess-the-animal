@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Guess_the_Animal.Guess_the_Animal-task-build-classes-java.main" target="13" />
+      <module name="Guess_the_Animal.Guess_the_Animal-task-build-generated-sources-annotationProcessor-java.main" target="13" />
+      <module name="Guess_the_Animal.Guess_the_Animal-task-build-generated-sources-headers-java.main" target="13" />
+      <module name="Guess_the_Animal.Guess_the_Animal-task-build-reports-tests.main" target="13" />
+      <module name="Guess_the_Animal.Guess_the_Animal-task-build-test-results.main" target="13" />
+      <module name="Guess_the_Animal.Guess_the_Animal-task-build-tmp.main" target="13" />
+      <module name="Guess_the_Animal.Guess_the_Animal-task.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Comparing_dates_and_time-Is_after,_is_before.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Comparing_dates_and_time-The_intersection_of_time_ranges.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Comparing_dates_and_time-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Comparing_dates_and_time-Which_return_true.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDate-30_years_before_and_after.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDate-Methods_of_LocalDate.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDate-Similar_date.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDate-The_first_day_of_a_month_or_not.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDate-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDateTime-Add_days_and_subtract_hours.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDateTime-Same_date_and_time.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDateTime-Subtracting_hours_and_adding_minutes.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalDateTime-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalTime-Return_time_without_seconds.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalTime-Same_time.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalTime-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-LocalTime-Working_with_time.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Match_results-Check_the_essay.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Match_results-Extracting_big_numbers_from_a_text.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Match_results-Extracting_words_from_a_text.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Match_results-Find_all_passwords.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Match_results-How_many_times_it_returns_true.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Match_results-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Match_results-Wrong_move.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Patterns_and_Matcher-E-mail_address.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Patterns_and_Matcher-Find_a_word_with_a_given_length.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Patterns_and_Matcher-Start_or_end_of_a_word.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Patterns_and_Matcher-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Patterns_and_Matcher-Why_use_Pattern_and_Matcher.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Recursion-Fix_the_method_to_print_strings_in_the_reverse_order.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Recursion-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Regexes_in_programs-Card_name_validation_and_identification.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Regexes_in_programs-Check_IP_address.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Regexes_in_programs-Check_the_date.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Regexes_in_programs-Ignoring_spaces.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Regexes_in_programs-Illegal_identifiers.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Regexes_in_programs-Safe_password.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Regexes_in_programs-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Replacing_characters-Methods_of_a_string.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Replacing_characters-Methods_of_Matcher.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Replacing_characters-Remove_HTML_tags.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Replacing_characters-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Stack-Html_Parser.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Stack-Methods.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Stack-Stack_implementation.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Stack-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-Stack-Which_brackets_are_balanced.main" target="13" />
+      <module name="Guess_the_Animal.Topics-The_Map_interface-Basics_of_Maps.main" target="13" />
+      <module name="Guess_the_Animal.Topics-The_Map_interface-Displaying_pairs.main" target="13" />
+      <module name="Guess_the_Animal.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="13" />
+      <module name="Guess_the_Animal.Topics-The_Map_interface-Theory.main" target="13" />
+      <module name="Guess_the_Animal.Topics-The_Set_interface-Comparing_sets.main" target="13" />
+      <module name="Guess_the_Animal.Topics-The_Set_interface-Output_elements.main" target="13" />
+      <module name="Guess_the_Animal.Topics-The_Set_interface-Theory.main" target="13" />
+      <module name="Guess_the_Animal.util.main" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

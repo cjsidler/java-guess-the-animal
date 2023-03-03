@@ -1,0 +1,15 @@
+{
+  "value" : "Can it climb trees?",
+  "left" : {
+    "value" : "a dog"
+  },
+  "right" : {
+    "value" : "Does it have a big fluffy tail?",
+    "left" : {
+      "value" : "a cat"
+    },
+    "right" : {
+      "value" : "a squirrel"
+    }
+  }
+}
